@@ -1,0 +1,23 @@
+{
+  "name": "class-04-20",
+  "version": "1.0.0",
+  "description": "Classroom work Thursday, April 20",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tomcali/class-04-20.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tomcali/class-04-20/issues"
+  },
+  "homepage": "https://github.com/tomcali/class-04-20",
+  "dependencies": {
+    "express": "^4.15.2"
+  }
+}
